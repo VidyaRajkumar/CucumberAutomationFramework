@@ -1,0 +1,17 @@
+2019-03-14 13:03:663 INFO  CategoriesPageStepDefinitions:35 - User is seeing list of Factual Programs
+2019-03-14 13:03:669 INFO  CategoriesPageStepDefinitions:36 - There are 44 Factual Programmes available
+2019-03-14 13:03:307 INFO  CategoriesPageStepDefinitions:63 - User sees the latest available documentary
+2019-03-14 13:03:39 INFO  SignInPageStepDefinitions:21 - User seeing a SignIn page on clicking the documentary play button
+2019-03-14 13:03:743 INFO  CategoriesPageStepDefinitions:89 - The user with valid credentials can view the latest available documentary 
+2019-03-14 13:03:746 INFO  ServiceHooks:42 - User can view the latest available documentaries(user with valid credentials) is PASS
+2019-03-14 13:03:459 INFO  CategoriesPageStepDefinitions:35 - User is seeing list of Factual Programs
+2019-03-14 13:03:459 INFO  CategoriesPageStepDefinitions:36 - There are 44 Factual Programmes available
+2019-03-14 13:03:76 INFO  CategoriesPageStepDefinitions:63 - User sees the latest available documentary
+2019-03-14 13:03:57 INFO  SignInPageStepDefinitions:21 - User seeing a SignIn page on clicking the documentary play button
+2019-03-14 13:03:697 INFO  SignInPageStepDefinitions:47 - Error message thrown :Please check your email and password then try again
+2019-03-14 13:03:697 INFO  SignInPageStepDefinitions:48 - The user with invalid credentials cannot view the latest available documentary 
+2019-03-14 13:03:698 INFO  ServiceHooks:42 - User cannot view the latest available documentaries(user with invalid credentials) is PASS
+2019-03-14 13:03:570 INFO  CategoriesPageStepDefinitions:35 - User is seeing list of Factual Programs
+2019-03-14 13:03:571 INFO  CategoriesPageStepDefinitions:36 - There are 44 Factual Programmes available
+2019-03-14 13:03:142 INFO  CategoriesPageStepDefinitions:106 - There is a Factual Program present without the latest documentary available
+2019-03-14 13:03:146 INFO  ServiceHooks:42 - Negative scenario to check the presence of factual programme for which there is no latest documentery available is PASS
